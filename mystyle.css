@@ -1,7 +1,13 @@
 p {
-  background-color: green;
+  color: brown;
 }
 
-body {
-	color: tan;
+#wrapper {
+	width: 980px;
+	margin: 0 auto;
+	height: 700px;
+	background-color:tan; 
 }
+
+
+
